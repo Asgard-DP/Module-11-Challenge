@@ -1,6 +1,8 @@
 
 
-In a bid to drive revenue, produce a Jupyter notebook that contains your data preparation, your analysis, and your visualizations for all the time series data that the company needs to understand. You’ll use text and comments to document your findings. And, you’ll answer the question prompts in the instructions. 
+# Drive revenu
+
+produce a Jupyter notebook that contains your data preparation, your analysis, and visualizations for all the time series data that the company needs to understand.
 
 # Specifically, this notebook contains the following:
 
