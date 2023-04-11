@@ -1,6 +1,6 @@
 
 
-# Drive revenu
+# Drive revenue
 
 produce a Jupyter notebook that contains your data preparation, your analysis, and visualizations for all the time series data that the company needs to understand.
 
