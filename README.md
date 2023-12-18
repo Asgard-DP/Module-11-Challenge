@@ -1,9 +1,3 @@
-
-
-# Drive revenue
-
-produce a Jupyter notebook that contains your data preparation, your analysis, and visualizations for all the time series data that the company needs to understand.
-
 # Specifically, this notebook contains the following:
 
 Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
